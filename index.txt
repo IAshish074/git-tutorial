@@ -1,0 +1,19 @@
+-----type of file----
+1) untracked -- new file that git doesn't yet track
+
+
+2) modified -- changed
+
+3) staged -- file is ready to be commited
+
+4) unchanged
+
+Add & commit 
+
+1) add - adds new or changed files in your working directory to the git staging area. 
+--- git add <file name>
+
+
+2) it it the record of change 
+
+-- git commit -m "some message"
