@@ -1,3 +1,3 @@
 # git-tutorial
-this is my first git repo for learning git tutorial
-author - Ashish Kumar Mishra
+this is my first git repo for learning git tutorial<br>
+Author - Ashish Kumar Mishra
