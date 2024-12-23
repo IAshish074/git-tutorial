@@ -17,3 +17,7 @@ Add & commit
 2) it it the record of change 
 
 -- git commit -m "some message"
+
+
+3)git push command
+--git push origin main
